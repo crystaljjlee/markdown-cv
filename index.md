@@ -2,16 +2,21 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Crystal Lee
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="crystall@mit.edu">crystall@mit.edu</a>
+| <a href="https://web.mit.edu/crystall/www/">Personal website</a>
 </div>
 
 
-## Currently
+## Appointments
+
+`July 2023--`
+__Assistant Professor,__ Computational Media and Design, MIT.
+
+`July 2023--`
+__Assistant Professor,__ Computational Media dn Design, MIT.
 
 Standing on the shoulders of giants
 
