@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Crystal Lee
 ---
 # Crystal Lee
 
@@ -12,17 +12,35 @@ title: Isaac Newtons's CV
 
 ## Appointments
 
-`July 2023--`
-__Assistant Professor,__ Computational Media and Design, MIT.
+`July 2023-`
+__Assistant Professor,__ Computational Media and Design, MIT
 
-`July 2023--`
-__Assistant Professor,__ Computational Media dn Design, MIT.
+`Sep 2022-`
+__Faculty Associate,__ Berkman Klein Center for Internet and Society, Harvard University
+Co-lead, Ethical Tech Working Group. Former Fellow (2020–21) and Affiliate (2021–22). 
 
-Standing on the shoulders of giants
+`Jan 2022-` 
+__Senior Fellow,__ Responsible Computing Challenge, Mozilla 
 
-### Specialized in
+`2022-23`
+__Postdoctoral Associate,__ Schwarzman College of Computing, MIT 
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2018` 
+__Visiting Scientist,__ Joint Research Center (Italy), European Commission 
+
+## Education 
+
+`2022`
+__PhD,__ History, Anthropology, Science, Technology, and Society (HASTS) 
+Massachusetts Institute of Technology 
+
+`2016`
+__MA,__ History of Science
+Stanford University 
+
+`2015`
+__BA (high honors),__ History of Science
+Stanford University 
 
 
 ### Research interests
