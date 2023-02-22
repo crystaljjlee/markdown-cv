@@ -17,6 +17,7 @@ __Assistant Professor,__ Computational Media and Design, MIT
 
 `Sep 2022-`
 __Faculty Associate,__ Berkman Klein Center for Internet and Society, Harvard University
+
 Co-lead, Ethical Tech Working Group. Former Fellow (2020–21) and Affiliate (2021–22). 
 
 `Jan 2022-` 
@@ -32,14 +33,17 @@ __Visiting Scientist,__ Joint Research Center (Italy), European Commission
 
 `2022`
 __PhD,__ History, Anthropology, Science, Technology, and Society (HASTS) 
+
 Massachusetts Institute of Technology 
 
 `2016`
 __MA,__ History of Science
+
 Stanford University 
 
 `2015`
 __BA (high honors),__ History of Science
+
 Stanford University 
 
 
