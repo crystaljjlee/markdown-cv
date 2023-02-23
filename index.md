@@ -47,72 +47,35 @@ __BA (high honors),__ History of Science
 Stanford University 
 
 
-### Research interests
+## Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data visualization, critical data studies, digital media, science and technology studies, human-
+computer interaction, disability studies
 
+## Selected fellowships, grants, and awards
 
-## Education
+`2022`
+Honorable Mention, Eurographics Conference on Visualization (EuroVis; top 3 papers)
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021` 
+Honorable Mention, Conference on Human Factors in Computing Systems (top 5%)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020`
+National Science Foundation Dissertation Improvement Grant #[1941577](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1941577&HistoricalAwards=false) ($18,825)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+`2020` 
+Social Science Research Council (SSRC) [Social Data Dissertation Fellowship](https://www.ssrc.org/fellowships/view/social-data-research-and-dissertation-fellowships/grantees/lee/) ($15,000) 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- You can find a similar list on my Google Scholar [profile]([http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ](https://scholar.google.com/citations?user=JAcJ-8IAAAAJ&hl=en)) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2023` 
+Gracen Brilmyer* and **Crystal Lee***. "[Terms of use: Crip legibility in information systems](https://firstmonday.org/ojs/index.php/fm/article/view/12935), _First Monday_ (January 2023).
 
 
-## Occupation
+<!-- ### Footer  -->
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: February 2023
 
 
