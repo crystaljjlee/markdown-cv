@@ -37,14 +37,10 @@ __PhD,__ History, Anthropology, Science, Technology, and Society (HASTS)
 Massachusetts Institute of Technology 
 
 `2016`
-__MA,__ History of Science
-
-Stanford University 
+__MA,__ History of Science, Stanford University 
 
 `2015`
-__BA (high honors),__ History of Science
-
-Stanford University 
+__BA (high honors),__ History of Science, Stanford University 
 
 
 ## Research interests
@@ -68,14 +64,30 @@ Social Science Research Council (SSRC) [Social Data Dissertation Fellowship](htt
 
 ## Publications
 
-<!-- You can find a similar list on my Google Scholar [profile]([http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ](https://scholar.google.com/citations?user=JAcJ-8IAAAAJ&hl=en)) -->
+### Refereed Journals
 
 `2023` 
 Gracen Brilmyer* and **Crystal Lee***. "[Terms of use: Crip legibility in information systems](https://firstmonday.org/ojs/index.php/fm/article/view/12935), _First Monday_ (January 2023).
 
+`2021` 
+Jamie Wong*, **Crystal Lee***, Vesper Long*, Di Wu*, Graham Jones*. “[Let’s Go, Baby
+Forklift: The Power of Cuteness and the Cuteness of Power on Chinese Social Media](https://journals.sagepub.com/doi/full/10.1177/20563051211024960),” _Social
+Media + Society_ (April 2021). 
+
+### Refereed conference proceedings 
+
+`2022` 
+Jonathan Zong*, **Crystal Lee***, Alan Lundgard*, JiWoong Jang, Daniel Hajas, Arvind Satyanarayan. "[Rich Screen Reader Experiences for Accessible Data Visualization](http://vis.csail.mit.edu/pubs/rich-screen-reader-vis-experiences)," _Eurographics Conference on Visualization_ (May 2022). ==Honorable Mention.== 
+
+`2021` 
+**Crystal Lee**, Tanya Yang, Gabrielle Inchoco, Graham M. Jones, and Arvind Satyanarayan,
+“Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online.” _ACM Human Factors in Computing Systems_ (CHI), 2021. ==Honorable Mention.== 
+
+`2019` 
+Alan Lundgard*, **Crystal Lee***, and Arvind Satyanarayan, “[Sociotechnical Considerations for Accessible Visualization Design](http://vis.mit.edu/pubs/sociotechnical-vis-access),” IEEE Transactions on Visualization and
+Computer Graphics (October 2019).
 
 <!-- ### Footer  -->
-
+<br> 
+<br>
 Last updated: February 2023
-
-
